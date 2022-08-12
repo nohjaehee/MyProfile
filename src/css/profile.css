@@ -1,0 +1,13 @@
+
+
+.skills {
+    columns: 1;
+    @media only screen and (min-width: 940px) {
+      columns: 2;
+    }
+  
+
+}
+/* .aboutMeTxt{
+  white-space: pre-line;
+} */

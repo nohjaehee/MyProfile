@@ -1,0 +1,17 @@
+.headerWrap{
+    display: flex;
+    justify-content: space-evenly;
+    align-content: space-around;
+    height: 10vh;
+    font-size: 4vh;
+}
+
+#headerLine{
+    text-decoration-line: none;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: flex-end;
+    align-items: center;
+    
+}

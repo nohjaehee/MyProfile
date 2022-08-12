@@ -1,0 +1,29 @@
+
+
+footer {
+  color: #1f1f1f;
+}
+.dark {
+  background-color: #1f1f1f;
+  color: #f8f8f8;
+  transition: all 400ms;
+}
+
+  /* a, i, li {
+    color: #0d0d0d;
+    transition: color 400ms;
+  }
+
+  a:visited {
+    color: #000000;
+  }
+
+  footer {
+    color: #000000;
+} */
+
+.light {
+  background-color: #f8f8f8;
+  color: #1f1f1f;
+  transition: all 400ms;
+}
